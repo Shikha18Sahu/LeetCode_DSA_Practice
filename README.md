@@ -10,15 +10,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -37,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0048-rotate-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
