@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0287-find-the-duplicate-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,12 +37,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0048-rotate-image) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0048-rotate-image) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0287-find-the-duplicate-number) |
+## Hash Table
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
