@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3193-count-the-number-of-inversions](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/3193-count-the-number-of-inversions) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,9 +58,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0169-majority-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0050-powx-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
