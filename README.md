@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3193-count-the-number-of-inversions](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/3193-count-the-number-of-inversions) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0229-majority-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -72,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
