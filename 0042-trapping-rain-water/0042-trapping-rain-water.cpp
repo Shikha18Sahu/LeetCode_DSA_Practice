@@ -1,24 +1,31 @@
 class Solution {
 public:
-    int trap(vector<int>& arr) {
-        int n = arr.size(); 
-        if(n == 0) return 0; 
-
-        vector<int>prefix(n); 
-        vector<int>suffix(n); 
- 
-        prefix[0] = arr[0];
-        suffix[n-1] = arr[n-1]; 
+    int trap(vector<int>& height) {
+        int n = height.size(); 
+        int maxLeft = 0, maxRight = 0, water=0; 
+        int maxHeight = height[0]; 
+        int index = 0; 
+        //find maxHeight index 
         for(int i = 1; i<n; i++){
-            prefix[i] = max(prefix[i-1], arr[i]); 
+            if(height[i] > maxHeight){
+                maxHeight = height[i]; 
+                index = i; 
+            }
         }
-        for(int i = n-2; i>=0; i--){
-            suffix[i] = max(suffix[i+1], arr[i]); 
+        for(int i = 0; i<index; i++){
+            if(maxLeft > height[i]){
+                water+= maxLeft - height[i]; 
+            }
+            else 
+            maxLeft = height[i]; 
         }
-        int total = 0; 
-        for(int i = 0; i<n; i++){
-            total+= min(prefix[i], suffix[i]) -arr[i]; 
+        for(int i = n-1; i>index; i--){
+            if(maxRight > height[i]){
+                water+= maxRight - height[i]; 
+            }
+            else
+            maxRight = height[i]; 
         }
-return total; 
+        return water; 
     }
 };
