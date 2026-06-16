@@ -2,6 +2,7 @@ class Solution {
 private:
     void findSubsets(int index, vector<int>& nums, vector<int>& current, vector<vector<int>>& result) {
         result.push_back(current);
+        
         for (int i = index; i < nums.size(); i++) {
             if (i > index && nums[i] == nums[i - 1]) {
                 continue;
