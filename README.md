@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0042-trapping-rain-water) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/2965-find-missing-and-repeated-values) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0141-linked-list-cycle) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0051-n-queens) |
