@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0229-majority-element-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0139-word-break) |
 | [3193-count-the-number-of-inversions](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/3193-count-the-number-of-inversions) |
 ## Math
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0131-palindrome-partitioning](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
@@ -198,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0131-palindrome-partitioning) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
