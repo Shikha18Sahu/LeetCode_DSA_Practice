@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3193-count-the-number-of-inversions](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/3193-count-the-number-of-inversions) |
 ## Binary Search
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
