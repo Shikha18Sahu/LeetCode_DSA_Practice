@@ -25,10 +25,10 @@ public:
         minHeap.push(maxHeap.top()); 
         maxHeap.pop(); 
       }
-      else if(minHeap.size() > maxHeap.size()){
-        maxHeap.push(minHeap.top()); 
-        minHeap.pop(); 
-      }
+    //   else if(minHeap.size() > maxHeap.size()){
+    //     maxHeap.push(minHeap.top()); 
+    //     minHeap.pop(); 
+    //   }
 
     }
     
