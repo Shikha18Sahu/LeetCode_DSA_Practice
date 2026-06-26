@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0460-lfu-cache](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0237-delete-node-in-a-linked-list) |
+| [0460-lfu-cache](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0295-find-median-from-data-stream) |
+| [0460-lfu-cache](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0460-lfu-cache) |
 ## Data Stream
 |  |
 | ------- |
@@ -272,4 +275,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
