@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3193-count-the-number-of-inversions](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/3193-count-the-number-of-inversions) |
 ## Binary Search
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0074-search-a-2d-matrix) |
+| [0994-rotting-oranges](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -289,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0239-sliding-window-maximum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
