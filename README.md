@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0139-word-break) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0139-word-break) |
 ## Memoization
 |  |
