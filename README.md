@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0459-repeated-substring-pattern) |
 ## Sliding Window
 |  |
 | ------- |
@@ -307,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0994-rotting-oranges) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
