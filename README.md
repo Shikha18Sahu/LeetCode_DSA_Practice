@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0686-repeated-string-match) |
 ## Sliding Window
 |  |
 | ------- |
@@ -312,4 +313,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
