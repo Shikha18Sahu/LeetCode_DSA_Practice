@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0139-word-break) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3193-count-the-number-of-inversions](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/3193-count-the-number-of-inversions) |
 ## Math
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0686-repeated-string-match) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
