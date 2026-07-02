@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0455-assign-cookies) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0496-next-greater-element-i) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0242-valid-anagram) |
 | [0459-repeated-substring-pattern](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0686-repeated-string-match) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
