@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0459-repeated-substring-pattern](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0686-repeated-string-match) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0257-binary-tree-paths) |
 ## Trie
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -350,5 +354,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
