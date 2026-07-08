@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0139-word-break) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0139-word-break) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0347-top-k-frequent-elements) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0145-binary-tree-postorder-traversal) |
