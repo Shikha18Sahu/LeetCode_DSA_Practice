@@ -13,7 +13,7 @@ public:
     }
 };
 
-
+// ------efficient method-------
 // using min heap
 
 // class Solution {
@@ -34,3 +34,6 @@ public:
 //         return p.top(); 
 //     }
 // };
+
+
+
