@@ -39,7 +39,6 @@ public:
 
         return clone;
     }
-
     Node* cloneGraph(Node* node) {
         if (node == NULL)
             return NULL;
