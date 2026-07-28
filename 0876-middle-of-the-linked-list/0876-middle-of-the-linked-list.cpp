@@ -13,14 +13,14 @@ public:
     ListNode* middleNode(ListNode* head) {
         ListNode* temp = head; 
        int count= 1; 
-        while(temp){
+        while(temp->next){
             temp = temp->next; 
             count++; 
         }
         temp = head; 
         int m= count/2; 
         if(count%2==0){
-            while(--m){
+            while(m--){
                temp = temp->next;    
             }
         }
