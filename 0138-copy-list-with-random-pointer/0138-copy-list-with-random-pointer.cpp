@@ -17,32 +17,37 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        if (!head) return nullptr;
-        Node* curr = head;
-        while (curr) {
-            Node* copy = new Node(curr->val);
-            copy->next = curr->next;
-            curr->next = copy;
-            curr = copy->next;
-        }
-        curr = head;
-        while (curr) {
-            if (curr->random) {
-                curr->next->random = curr->random->next;
-            }
-            curr = curr->next->next;
-        }
-        curr = head;
-        Node* newHead = head->next;
-        while (curr) {
-            Node* copy = curr->next;
-            curr->next = copy->next;
-            if (copy->next) {
-                copy->next = copy->next->next;
-            }
-            curr = curr->next;
+        //1. copied node next to the real node
+        if(head== NULL) return head; 
+        Node* temp = head; 
+      
+        while(temp){
+           Node* copyNode = new Node(temp->val); 
+           copyNode->next = temp->next; 
+           temp->next = copyNode; 
+           temp = copyNode->next; 
         }
 
-        return newHead;
+        // random pointer
+        temp = head; 
+        while(temp){
+          if(temp->random){
+           temp->next->random = temp->random->next;
+        }
+        temp= temp->next->next; 
+        }
+      
+       // separate both ll
+       Node *dummy = new Node(0); 
+       Node *temptail = dummy; 
+       temp = head; 
+       while(temp){
+        Node* tempnode = temp->next; 
+        temptail->next = tempnode; 
+        temptail = tempnode; 
+        temp->next = tempnode->next; 
+        temp = temp->next; 
+       }
+       return dummy->next; 
     }
 };
