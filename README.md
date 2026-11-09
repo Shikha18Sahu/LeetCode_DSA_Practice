@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0733-flood-fill](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0994-rotting-oranges) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Shikha18Sahu/LeetCode_DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
